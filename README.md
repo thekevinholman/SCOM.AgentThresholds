@@ -1,4 +1,4 @@
-# SCOM.AgentThresholds Management Pack 7.0.0.0
+# SCOM.AgentThresholds Management Pack 7.0.0.1
 
 ## [Download Here][Download]
 
@@ -10,3 +10,5 @@ https://kevinholman.com/2017/05/29/stop-healthservice-restarts-in-scom-2016/
 
 * Version 7.0.0.0
 Initial Release
+* Version 7.0.0.1
+Bug fix to allow alert close in SCOM 2019
